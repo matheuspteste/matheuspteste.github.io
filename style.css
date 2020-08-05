@@ -1,0 +1,25 @@
+.inicio{background: url(img/Frutas.jpg);
+    padding: 10%;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: 250px;
+    margin-left: 406px;
+  
+
+}
+div{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    border: solid;
+    border-color: rgb(222, 255, 102);
+}
+.motivo{
+    background-color: rgb(111, 243, 111)
+}
+.dica{
+    background-color: rgb(253, 253, 101);
+}
